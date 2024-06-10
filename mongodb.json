@@ -1,0 +1,18 @@
+db.{
+  "_id": {
+    "$oid": "6666cc4087726ac3e9c94ec1"
+  },
+  "nom": "",
+  "address": {
+    "carrer": "",
+    "numero": "",
+    "pis": "",
+    "porta": "",
+    "ciutat": "",
+    "postalCode": "",
+    "pais": ""
+  },
+  "phoneNumber": "",
+  "fax": "",
+  "NIF": ""
+}
